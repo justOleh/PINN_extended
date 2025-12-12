@@ -1,0 +1,14 @@
+num_epochs: 6000
+alpha_boundary: 1
+alpha_physics: 0.1
+alpha_data: 0
+learning_rate: 0.001
+r1: 598
+r2: 610
+t_start: 0
+t_finish: 25000
+D: 0.0032
+c0: 0
+c1: 4
+c2: 0
+result_model_path: "weights/trained_models/physics_boundary_6k_epochs.pth"
